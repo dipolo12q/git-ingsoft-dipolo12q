@@ -180,11 +180,17 @@ PS C:\Users\ninco\Documents\2023-2\IS\git-ingsoft-dipolo12q> git branch
 # Comandos Consola Integrante 2
 
 git clone https://github.com/dipolo12q/git-ingsoft-dipolo12q.git
+
 git branch feature2
+
 git checkout feature2
+
 git add app.py
+
 git commit -m “Mi modificacion”
+
 git status
+
 git push --set-upstream origin feature2
 
 
